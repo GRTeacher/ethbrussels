@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>On-Chain Quiz</title>
+    <script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js/dist/web3.min.js"></script>
+    <script src="script.js"></script>
+</head>
+<body>
+    <h1>The Graph Advocates Quiz</h1>
+    <div id="questions"></div>
+    <div>
+        <h2>Your Score</h2>
+        <p id="score">0</p>
+    </div>
+</body>
+</html>
